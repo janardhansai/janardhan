@@ -1,0 +1,24 @@
+body{
+    background: linear-gradient(#cb77f2 30% ,  #8879e8 100%);
+}
+.janardhan{
+    display:flex;
+    flex-wrap:wrap;
+    margin:10px;
+}
+.image{
+    width:48%;
+    border:solid 3px yellow;
+    margin 20px;
+    border-radius: 10px;
+}
+img{
+    max-width:90%
+}
+h1{
+    color:white;
+    font-size:50px;
+    font-style:oblique;
+}
+
+
